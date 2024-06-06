@@ -7,6 +7,8 @@ This project uses the following environment variables:
 | ----------------------------- | ------------------------------------| -----------------------------------------------|
 |CORS           | Cors accepted values            | "*"      |
 
+# Postman Documentation
+-[Documentation](https://documenter.getpostman.com/view/32739357/2sA3QtcqsP)
 
 # Pre-requisites
 - Install [Node.js](https://nodejs.org/en/) version 8.0.0
