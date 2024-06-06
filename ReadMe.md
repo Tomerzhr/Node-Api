@@ -1,14 +1,17 @@
-# Nodejs FES Template
+# Nodejs By Tomer Zohar
 
-# Environment vars
-This project uses the following environment variables:
+# Users Detailes
+Use those detailes to use this api project:
 
-| Name                          | Description                         | Default Value                                  |
-| ----------------------------- | ------------------------------------| -----------------------------------------------|
-|CORS           | Cors accepted values            | "*"      |
+| Type                          | Email                         | Password                                  |
+| ----------------------------- | ----------------------------| -------------------|
+|Admin           | admin@gmail.com           | test1234     |
+|User           | tomerzhr@gmail.com           | Tomer24544!     |
 
 # Postman Documentation
 -[Documentation](https://documenter.getpostman.com/view/32739357/2sA3QtcqsP)
+
+
 
 # Pre-requisites
 - Install [Node.js](https://nodejs.org/en/) version 8.0.0
